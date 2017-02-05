@@ -1,0 +1,9 @@
+c:\users\ricardo\documents\visual studio 2015\Projects\get_Icon\get_Icon\bin\Debug\get_Icon.exe.config
+c:\users\ricardo\documents\visual studio 2015\Projects\get_Icon\get_Icon\obj\Debug\get_Icon.csprojResolveAssemblyReference.cache
+c:\users\ricardo\documents\visual studio 2015\Projects\get_Icon\get_Icon\obj\Debug\get_Icon.Form1.resources
+c:\users\ricardo\documents\visual studio 2015\Projects\get_Icon\get_Icon\obj\Debug\get_Icon.Properties.Resources.resources
+c:\users\ricardo\documents\visual studio 2015\Projects\get_Icon\get_Icon\obj\Debug\get_Icon.csproj.GenerateResource.Cache
+c:\users\ricardo\documents\visual studio 2015\Projects\get_Icon\get_Icon\bin\Debug\get_Icon.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\get_Icon\get_Icon\bin\Debug\get_Icon.pdb
+c:\users\ricardo\documents\visual studio 2015\Projects\get_Icon\get_Icon\obj\Debug\get_Icon.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\get_Icon\get_Icon\obj\Debug\get_Icon.pdb
